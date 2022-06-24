@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZqgCiFlz1RCfhKKNNAoOqBkuS2hJtbfF4/9HtHoJuszVkPBpDmkXi8tXXaCXueDopBUDX76AK/DcvXNYSfW5g==",
+  "success": true,
+  "projectFilePath": "C:\\CURSO C# UDEMY\\Variaveis\\Variaveis\\Variaveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

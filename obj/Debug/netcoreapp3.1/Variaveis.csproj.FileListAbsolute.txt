@@ -1,0 +1,14 @@
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\CURSO C# UDEMY\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.AssemblyReference.cache
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\CURSO C# UDEMY\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache
